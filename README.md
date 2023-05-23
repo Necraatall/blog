@@ -39,7 +39,16 @@ python3 -m pip install -r requirements.txt
 ```
 
 ## install vue
+by this tutorial:
 https://www.google.com/search?q=how+to+make+package.json&oq=how+to+make+package.json&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhgeMggICRAAGBYYHtIBCTE0MTYzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#kpvalbx=_uNBsZN60OsOL9u8PmduS6AQ_38
+
+or:
 ```
 npm init
+```
+
+## Install Vue Plugins
+on the core project
+```
+$ npx @vue/cli create frontend --default
 ```
